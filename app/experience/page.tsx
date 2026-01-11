@@ -24,7 +24,7 @@ export default function CommunityPage() {
             </h2>
 
             <p className="text-lg text-white-300">
-              This is where memories are created — and where people often decide
+              This is where memories are created, and where people often decide
               to return.
             </p>
           </div>
@@ -180,7 +180,7 @@ export default function CommunityPage() {
           </p>
 
           <p className="text-lg">
-            It emerges naturally, hen time slows, conversations deepen,
+            It emerges naturally, then time slows, conversations deepen,
             and people feel safe enough to be themselves.
           </p>
         </div>

@@ -6,7 +6,7 @@ export default function Home() {
     <>
       {/* HERO */}
       <section
-    className="relative h-screen bg-cover bg-center bg-no-repeat flex items-center justify-center"
+    className="relative h-screen bg-cover bg-center bg-no-repeat flex items-center justify-center pt-24"
     style={{
     backgroundImage: "url('/beach.png')",
     }}
@@ -49,9 +49,16 @@ export default function Home() {
         <div id="info" className="scroll-mt-24" />
         <div className="max-w-4xl mx-auto text-black space-y-8">
     
-      <h2 className="text-4xl md:text-5xl font-semibold tracking-tight">
-      / What is THEPAUSE /
+      <h2 className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight whitespace-nowrap text-center">
+         What is{" "}
+        <span className="relative inline-block">
+        THE PAUSE
+        <span className="absolute left-0 -bottom-1 w-full h-[2px] bg-black" />
+        </span>{" "}
+  
       </h2>
+
+
 
       <p className="text-lg text-gray-700 leading-relaxed">
       <span className="font-bold text-black">THEPAUSE</span> is a space created
