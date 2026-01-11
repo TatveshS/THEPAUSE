@@ -154,7 +154,7 @@ export default function Home() {
     playsInline
     className="absolute inset-0 w-full h-full object-cover"
   >
-    <source src="/videos/waves_close.mp4" type="video/mp4" />
+    <source src="https://res.cloudinary.com/dmedbtjvu/video/upload/v1768154263/waves_close_pnifwk.mp4" type="video/mp4" />
   </video>
 
   {/* Dark overlay */}
