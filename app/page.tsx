@@ -33,6 +33,25 @@ export default function Home() {
       We create experiences inspired by nature, rhythm, and stillness,
       designed to help you pause from the noise and feel present again.
     </p>
+    <div className="mt-10 flex justify-center">
+    <a
+    href="/book"
+    className="
+      inline-flex items-center gap-2
+      px-8 py-3
+      text-sm tracking-wide font-medium
+      text-white
+      border border-white/60
+      rounded-full
+      backdrop-blur-sm
+      hover:bg-white hover:text-black
+      transition-all duration-300
+    "
+    >
+    Book Your Month
+    </a>
+  </div>
+
     </div>
 
 
@@ -341,6 +360,7 @@ export default function Home() {
 
 {/* ================= FOOTER ================= */}
 <footer className="bg-white text-black-300 px-6 py-20">
+  
   <div id="footer" className="scroll-mt-24" />
   <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-16">
 
@@ -400,6 +420,7 @@ export default function Home() {
     </div>
 
   </div>
+
 
   {/* Divider */}
   <div className="mt-16 border-t border-white/10 pt-6 text-center text-xs text-gray-500">
