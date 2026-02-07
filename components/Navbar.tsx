@@ -23,7 +23,7 @@ export default function Navbar() {
           className="text-lg font-semibold tracking-wide"
           onClick={() => setOpen(false)}
         >
-          THEPAUSE
+          NIVÀSA
         </Link>
 
         {/* Desktop Menu */}

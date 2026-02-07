@@ -249,7 +249,7 @@ export default function CommunityPage() {
 
   {/* Divider */}
   <div className="mt-16  pt-6 text-center text-xs text-white">
-    © {new Date().getFullYear()} THEPAUSE · Agonda, Goa
+    © {new Date().getFullYear()} NIVÀSA · Agonda, Goa
   </div>
 </footer>
     </main>

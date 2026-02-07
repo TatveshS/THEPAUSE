@@ -201,7 +201,7 @@ export default function BookPage() {
 
   {/* Divider */}
   <div className="mt-16 border-t border-white/10 pt-6 text-center text-xs text-gray-500">
-    © {new Date().getFullYear()} THEPAUSE · Agonda, Goa
+    © {new Date().getFullYear()} NIVÀSA · Agonda, Goa
   </div>
 </footer>
 

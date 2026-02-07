@@ -22,7 +22,7 @@ export default function Home() {
       "
     >
     <h1 className="text-6xl md:text-7xl font-bold tracking-tight text-white">
-      THEPAUSE
+      NIVÀSA
     </h1>
 
     <p className="mt-6 text-3xl md:text-4xl font-medium tracking-tight text-gray-300">
@@ -80,7 +80,7 @@ export default function Home() {
 
 
       <p className="text-lg text-gray-700 leading-relaxed">
-      <span className="font-bold text-black">THEPAUSE</span> is a space created
+      <span className="font-bold text-black">NIVÀSA</span> is a space created
       for people who feel overwhelmed by the noise of the concrete jungle. A place
       where time slows down, thoughts breathe, and life feels lighter again. We
       believe that real freedom begins when you disconnect from chaos and reconnect
@@ -89,7 +89,7 @@ export default function Home() {
 
       <p className="text-lg text-gray-700 leading-relaxed">
       Rooted in the soul of <span className="font-medium text-black">Goa</span> and
-      the beachside way of life, <span className="font-medium text-black font-semibold">THEPAUSE</span> brings you closer to nature, sound, and
+      the beachside way of life, <span className="font-medium text-black font-semibold">NIVÀSA</span> brings you closer to nature, sound, and
       stillness, all within <span className="font-medium text-black font-semibold">1 km of the shoreline</span>.
       Here, waves replace traffic, sunsets replace screens, and every moment carries
       a vibe that helps you reset, recharge, and simply be.
@@ -127,7 +127,7 @@ export default function Home() {
     {/* STORY */}
     <div className="space-y-8 text-white text-center md:text-left">
       <h2 className="text-4xl md:text-5xl font-semibold tracking-tight">
-        The Story Behind THEPAUSE
+        The Story Behind NIVÀSA
       </h2>
 
       <p className="text-lg text-white leading-relaxed">
@@ -145,7 +145,7 @@ export default function Home() {
         there wasn’t about leaving ambition behind, but about restoring balance.
       </p>
       <p className="text-lg text-white leading-relaxed">
-        THEPAUSE was born from that return, a space for anyone who has felt
+        NIVÀSA was born from that return, a space for anyone who has felt
         overwhelmed by modern life and quietly longed for something slower,
         calmer, and more real.
       </p>
@@ -193,7 +193,7 @@ export default function Home() {
       {/* Heading */}
       <div className="text-center space-y-6">
         <h2 className="text-4xl md:text-5xl font-semibold tracking-tight">
-          Experiences at THEPAUSE
+          Experiences at NIVÀSA
         </h2>
 
         <p className="text-lg text-gray-300 max-w-2xl mx-auto">
@@ -377,7 +377,7 @@ export default function Home() {
       </p>
     </div>
 
-    {/* Contact */}
+    {/* Contact */} 
     <div className="space-y-4">
       <h4 className="text-sm font-medium tracking-wide text-black uppercase">
         Contact
@@ -424,7 +424,7 @@ export default function Home() {
 
   {/* Divider */}
   <div className="mt-16 border-t border-white/10 pt-6 text-center text-xs text-gray-500">
-    © {new Date().getFullYear()} THEPAUSE · Agonda, Goa
+    © {new Date().getFullYear()} NIVÀSA · Agonda, Goa
   </div>
 </footer>
 
