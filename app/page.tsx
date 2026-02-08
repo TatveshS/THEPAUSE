@@ -21,8 +21,8 @@ export default function Home() {
       drop-shadow-[0_8px_30px_rgba(0,0,0,0.45)]
       "
     >
-    <h1 className="text-6xl md:text-7xl font-bold tracking-tight text-white">
-      NIVÀSA
+    <h1 className="text-6xl md:text-6xl font-bold tracking-tight text-white">
+      THE NIVÀSA PROJECT
     </h1>
 
     <p className="mt-6 text-3xl md:text-4xl font-medium tracking-tight text-gray-300">
@@ -31,7 +31,7 @@ export default function Home() {
 
     <p className="mt-6 text-base md:text-lg text-gray-300 max-w-xl mx-auto">
       We create experiences inspired by nature, rhythm, and stillness,
-      designed to help you pause from the noise and feel present again.
+      designed to help you NIVÀSA from the noise and feel present again.
     </p>
     <div className="mt-10 flex justify-center">
     <a
@@ -71,7 +71,7 @@ export default function Home() {
       <h2 className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight whitespace-nowrap text-center">
          What is{" "}
         <span className="relative inline-block">
-        THE PAUSE
+        THE NIVÀSA PROJECT
         <span className="absolute left-0 -bottom-1 w-full h-[2px] bg-black" />
         </span>{" "}
   
@@ -79,25 +79,31 @@ export default function Home() {
 
 
 
-      <p className="text-lg text-gray-700 leading-relaxed">
-      <span className="font-bold text-black">NIVÀSA</span> is a space created
-      for people who feel overwhelmed by the noise of the concrete jungle. A place
-      where time slows down, thoughts breathe, and life feels lighter again. We
-      believe that real freedom begins when you disconnect from chaos and reconnect
-      with yourself, your rhythm, your peace, your natural flow.
-      </p>
+        <p className="text-lg text-gray-700 leading-relaxed">
+          <span className="font-bold text-black">NIVÀSA</span> is a one-month live-and-work
+          residency created for people who work remotely and feel overwhelmed by the
+          noise of the concrete jungle. It is a thoughtfully curated home where work,
+          rest, and rhythm coexist, allowing you to slow down without stepping away
+          from your work or purpose.
+        </p>
 
-      <p className="text-lg text-gray-700 leading-relaxed">
-      Rooted in the soul of <span className="font-medium text-black">Goa</span> and
-      the beachside way of life, <span className="font-medium text-black font-semibold">NIVÀSA</span> brings you closer to nature, sound, and
-      stillness, all within <span className="font-medium text-black font-semibold">1 km of the shoreline</span>.
-      Here, waves replace traffic, sunsets replace screens, and every moment carries
-      a vibe that helps you reset, recharge, and simply be.
-      </p>
+        <p className="text-lg text-gray-700 leading-relaxed">
+          Rooted in the soul of <span className="font-medium text-black">Goa</span> and
+          the beachside way of life, <span className="font-medium text-black font-semibold">NIVÀSA</span> brings you closer to nature, sound, and
+          stillness, all within <span className="font-medium text-black font-semibold">1 km of the shoreline</span>.
+          Here, waves replace traffic, sunsets replace screens, and days are shaped by
+          natural light rather than constant notifications.
+        </p>
 
-      <p className="text-lg text-gray-700 leading-relaxed">
-      More than a destination, THE PAUSE is a state of mind. An invitation to slow down, to live with intention, and to experience moments without urgency. Whether in solitude or shared silence, each stay unfolds gently — allowing you to reset, recharge, and simply be.
-      </p>
+        <p className="text-lg text-gray-700 leading-relaxed">
+          More than a destination, <span className="font-medium text-black">The NIVÀSA Project</span> is a community of remote professionals who value
+          focus, presence, and meaningful connection. Weekends are designed to gently
+          connect you with local Goan culture,slow explorations, nature trails, shared
+          meals, and quiet moments, while weekdays remain calm and work-focused.
+          Each residency unfolds without urgency, offering space to reset, recharge,
+          and return feeling grounded.
+        </p>
+
       </div>
 
       {/* BOTTOM IMAGE */}
@@ -260,7 +266,7 @@ export default function Home() {
       </h2>
 
       <p className="text-lg text-white-600">
-        Every space at THE PAUSE is designed with intention, to help you rest
+        Every space at THE NIVÀSA is designed with intention, to help you rest
         deeply, work calmly, and move through your day without friction.
       </p>
     </div>
@@ -335,7 +341,7 @@ export default function Home() {
 
         <p className="text-white-700 leading-relaxed">
           Whether you’re cooking, sharing a meal, or just making chai, the
-          kitchen remains one of the most lived-in spaces at THE PAUSE.
+          kitchen remains one of the most lived-in spaces at THE NIVÀSA.
         </p>
       </div>
     </div>
@@ -368,7 +374,7 @@ export default function Home() {
     {/* Brand */}
     <div className="space-y-4">
       <h3 className="text-xl font-semibold tracking-wide text-black">
-        THE PAUSE
+        THE NIVÀSA
       </h3>
 
       <p className="text-sm leading-relaxed text-black max-w-sm">
@@ -424,7 +430,7 @@ export default function Home() {
 
   {/* Divider */}
   <div className="mt-16 border-t border-white/10 pt-6 text-center text-xs text-gray-500">
-    © {new Date().getFullYear()} NIVÀSA · Agonda, Goa
+    © {new Date().getFullYear()} THE NIVÀSA Project · Agonda, Goa
   </div>
 </footer>
 

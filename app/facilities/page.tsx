@@ -5,7 +5,7 @@ export default function FacilitiesPage() {
       {/* ================= HERO ================= */}
       <section className="px-6 py-32 text-center max-w-4xl mx-auto space-y-6">
         <h1 className="text-5xl md:text-6xl font-semibold tracking-tight">
-          Facilities at THE PAUSE
+          Facilities at NIVÀSA
         </h1>
 
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
@@ -24,7 +24,7 @@ export default function FacilitiesPage() {
             </h2>
 
             <p className="text-lg text-white leading-relaxed">
-              At THE PAUSE, rooms are designed for rest, not rotation. Each
+              At THE NIVÀSA, rooms are designed for rest, not rotation. Each
               private room feels grounded, quiet, and personal, a space you
               return to after hours of focus.
             </p>
@@ -62,7 +62,7 @@ export default function FacilitiesPage() {
             </h2>
 
             <p className="text-lg text-gray-700 leading-relaxed">
-              Work at THE PAUSE is not confined to walls. It happens in quiet,
+              Work at NIVÀSA is not confined to walls. It happens in quiet,
               plant-filled spaces, open decks, and naturally lit zones where
               clarity replaces pressure.
             </p>
@@ -127,7 +127,7 @@ export default function FacilitiesPage() {
 
             <p className="text-lg text-gray-700 leading-relaxed">
               This is where work softens. A shared dining and chill space
-              designed for pauses, conversation, and unplanned connection.
+              designed for NIVÀSAs, conversation, and unplanned connection.
             </p>
 
             <ul className="space-y-3 text-gray-700">
@@ -190,7 +190,7 @@ export default function FacilitiesPage() {
     {/* Brand */}
     <div className="space-y-4">
       <h3 className="text-xl font-semibold tracking-wide text-white">
-        THE PAUSE
+        THE NIVÀSA
       </h3>
 
       <p className="text-sm leading-relaxed text-white max-w-sm">
@@ -245,7 +245,7 @@ export default function FacilitiesPage() {
 
   {/* Divider */}
   <div className="mt-16  pt-6 text-center text-xs text-white">
-    © {new Date().getFullYear()} THEPAUSE · Agonda, Goa
+    © {new Date().getFullYear()} THE NIVÀSA PROJECT · Agonda, Goa
   </div>
 </footer>
 

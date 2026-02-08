@@ -9,7 +9,7 @@ export default function CommunityPage() {
         </h1>
 
         <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
-          Life at THE PAUSE is shaped as much by people as it is by place.
+          Life at NIVÀSA is shaped as much by people as it is by place.
           Community here is unforced, unhurried, and deeply human.
         </p>
       </section>
@@ -176,7 +176,7 @@ export default function CommunityPage() {
       <section className="px-6 py-24 bg-white text-black-300 text-center">
         <div className="max-w-3xl mx-auto space-y-6">
           <p className="text-xl text-black font-medium">
-            Community at THE PAUSE isn’t curated by events.
+            Community at NIVÀSA isn’t curated by events.
           </p>
 
           <p className="text-lg">
@@ -194,7 +194,7 @@ export default function CommunityPage() {
     {/* Brand */}
     <div className="space-y-4">
       <h3 className="text-xl font-semibold tracking-wide text-white">
-        THE PAUSE
+        NIVÀSA
       </h3>
 
       <p className="text-sm leading-relaxed text-white max-w-sm">
@@ -249,7 +249,7 @@ export default function CommunityPage() {
 
   {/* Divider */}
   <div className="mt-16  pt-6 text-center text-xs text-white">
-    © {new Date().getFullYear()} NIVÀSA · Agonda, Goa
+    © {new Date().getFullYear()} THE NIVÀSA PROJECT · Agonda, Goa
   </div>
 </footer>
     </main>

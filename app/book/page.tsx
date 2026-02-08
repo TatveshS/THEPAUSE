@@ -5,11 +5,11 @@ export default function BookPage() {
       {/* ================= HERO ================= */}
       <section className="px-6 py-32 text-center max-w-4xl mx-auto space-y-8">
         <h1 className="text-5xl md:text-6xl font-semibold tracking-tight text-black">
-          Booking at THE PAUSE
+          Booking at THE NIVÀSA
         </h1>
 
         <p className="text-lg text-black-300 max-w-2xl mx-auto leading-relaxed">
-          THE PAUSE is not for everyone, and that is intentional.  
+          THE NIVÀSA is not for everyone, and that is intentional.  
           We are a small, curated community built on presence, focus, and respect
           for quiet.
         </p>
@@ -24,7 +24,7 @@ export default function BookPage() {
           </h2>
 
           <p className="text-lg text-white leading-relaxed">
-            We don’t operate on instant bookings. Every stay at THE PAUSE is
+            We don’t operate on instant bookings. Every stay at THE NIVÀSA is
             intentional, for you and for the community you’ll be joining.
           </p>
 
@@ -51,7 +51,7 @@ export default function BookPage() {
           </h2>
 
           <p className="text-lg text-black leading-relaxed">
-            Stays at THE PAUSE are designed as a <span className="font-medium text-black">
+            Stays at THE NIVÀSA are designed as a <span className="font-medium text-black">
             one-month experience</span>.
           </p>
 
@@ -77,7 +77,7 @@ export default function BookPage() {
           </h2>
 
           <p className="text-lg text-white text-whiteleading-relaxed">
-            THE PAUSE operates seasonally, during months when Goa feels most
+            THE NIVÀSA operates seasonally, during months when Goa feels most
             alive, calm, and balanced.
           </p>
 
@@ -107,7 +107,7 @@ export default function BookPage() {
           <p className="text-lg leading-relaxed">
             To begin the process, reach out to us directly.  
             We’ll have a short conversation to understand your intent, your
-            expectations, and whether THE PAUSE is the right fit for you.
+            expectations, and whether THE NIVÀSA is the right fit for you.
           </p>
 
           <div className="space-y-4 text-lg">
@@ -146,7 +146,7 @@ export default function BookPage() {
     {/* Brand */}
     <div className="space-y-4">
       <h3 className="text-xl font-semibold tracking-wide text-black">
-        THE PAUSE
+        THE NIVÀSA
       </h3>
 
       <p className="text-sm leading-relaxed text-black max-w-sm">
@@ -201,7 +201,7 @@ export default function BookPage() {
 
   {/* Divider */}
   <div className="mt-16 border-t border-white/10 pt-6 text-center text-xs text-gray-500">
-    © {new Date().getFullYear()} NIVÀSA · Agonda, Goa
+    © {new Date().getFullYear()} THE NIVÀSA PROJECT · Agonda, Goa
   </div>
 </footer>
 
